@@ -1,4 +1,4 @@
-# SurfClassFinal
+# SurfClassFinal <a target="_blank" href="iijao.github.io/surfclassfinal/"> SurfClass </a>
 
 <h1> Sobre o Projeto </h1>
   <p> Nesse projeto, usando a tecnica de mobile first, me dediquei a fazer um site que fosse responsivo para mobile e desktop, usando media query e javaScript para melhorar a funcionalidade do site, consegui desenvolver meu primeiro site responsivo. </p> 
